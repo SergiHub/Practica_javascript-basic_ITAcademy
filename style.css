@@ -1,0 +1,12 @@
+html {
+    margin: 0;
+}
+
+button {
+    width: 100px;
+    height: 25px;
+    border: solid black 1px;
+    display: inline-block;
+    border-radius: 2px;
+    background-color: aquamarine;
+}
